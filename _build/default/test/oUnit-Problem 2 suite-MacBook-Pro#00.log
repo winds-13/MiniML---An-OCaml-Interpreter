@@ -1,0 +1,676 @@
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Runner: processes
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Chooser: simple
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration suite_name = "Problem 2 suite"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration cache_filename = "/Users/h.t./Library/Mobile Documents/com~apple~CloudDocs/Desktop/ALL/2022 Fall/PL/hw07-winds-13/_build/default/test/oUnit-$(suite_name).cache"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration run_gc_full_major = "true"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration display = "true"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration results_style_1_X = "false"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration testdata_dir = "none"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration health_check_interval = "1."
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration verbose = "false"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration chooser = "simple"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration output_html_dir = "none"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration processes_kill_period = "5."
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration runner = "processes"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration shards = "2"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration processes_grace_period = "5."
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration log_encoding = "utf-8"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration output_junit_file = "none"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration ci = "false"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Configuration output_file = "/Users/h.t./Library/Mobile Documents/com~apple~CloudDocs/Desktop/ALL/2022 Fall/PL/hw07-winds-13/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Using 2 workers maximum.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Starting worker number MacBook-Pro#01.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Worker MacBook-Pro#01 started.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Starting worker number MacBook-Pro#02.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Worker MacBook-Pro#02 started.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:1:find_free_var (a+b), Problem 2 suite:0:find_free_var (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:0:find_free_var (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:1:find_free_var (a+b), Problem 2 suite:0:find_free_var (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:1:find_free_var (a+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:1:find_free_var (a+b), Problem 2 suite:0:find_free_var (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:0:find_free_var (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:1:find_free_var (a+b), Problem 2 suite:0:find_free_var (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:0:find_free_var (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:1:find_free_var (a+b), Problem 2 suite:0:find_free_var (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:2:find_free_var (a+1), Problem 2 suite:1:find_free_var (a+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:1:find_free_var (a+b) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:2:find_free_var (a+1), Problem 2 suite:1:find_free_var (a+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:1:find_free_var (a+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:2:find_free_var (a+1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:2:find_free_var (a+1), Problem 2 suite:1:find_free_var (a+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:3:find_free_var (1+b), Problem 2 suite:2:find_free_var (a+1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:3:find_free_var (1+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:3:find_free_var (1+b), Problem 2 suite:2:find_free_var (a+1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:2:find_free_var (a+1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:3:find_free_var (1+b), Problem 2 suite:2:find_free_var (a+1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:2:find_free_var (a+1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:3:find_free_var (1+b), Problem 2 suite:2:find_free_var (a+1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:4:find_free_var (1+2), Problem 2 suite:3:find_free_var (1+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:4:find_free_var (1+2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:4:find_free_var (1+2), Problem 2 suite:3:find_free_var (1+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:3:find_free_var (1+b) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:4:find_free_var (1+2), Problem 2 suite:3:find_free_var (1+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:3:find_free_var (1+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:4:find_free_var (1+2), Problem 2 suite:3:find_free_var (1+b).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2), Problem 2 suite:4:find_free_var (1+2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2), Problem 2 suite:4:find_free_var (1+2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:4:find_free_var (1+2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2), Problem 2 suite:4:find_free_var (1+2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:4:find_free_var (1+2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2), Problem 2 suite:4:find_free_var (1+2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)), Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)), Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)), Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)), Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:7:find_free_var (f 1 2), Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:7:find_free_var (f 1 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:7:find_free_var (f 1 2), Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:7:find_free_var (f 1 2), Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:7:find_free_var (f 1 2), Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:7:find_free_var (f 1 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2), Problem 2 suite:7:find_free_var (f 1 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:7:find_free_var (f 1 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2), Problem 2 suite:7:find_free_var (f 1 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)), Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)), Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)), Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)), Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2), Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2), Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2), Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2), Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2), Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2), Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:12:subst (x) y (2), Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:13:subst (x) x (2), Problem 2 suite:12:subst (x) y (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:12:subst (x) y (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:13:subst (x) x (2), Problem 2 suite:12:subst (x) y (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:13:subst (x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:13:subst (x) x (2), Problem 2 suite:12:subst (x) y (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:12:subst (x) y (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:13:subst (x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:13:subst (x) x (2), Problem 2 suite:12:subst (x) y (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:12:subst (x) y (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:13:subst (x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:13:subst (x) x (2), Problem 2 suite:12:subst (x) y (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:15:subst (x + y) y (2 + 1), Problem 2 suite:14:subst (x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:14:subst (x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:15:subst (x + y) y (2 + 1), Problem 2 suite:14:subst (x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:15:subst (x + y) y (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:15:subst (x + y) y (2 + 1), Problem 2 suite:14:subst (x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:14:subst (x + y) x (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:15:subst (x + y) y (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:15:subst (x + y) y (2 + 1), Problem 2 suite:14:subst (x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:14:subst (x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:15:subst (x + y) y (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:15:subst (x + y) y (2 + 1), Problem 2 suite:14:subst (x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1), Problem 2 suite:16:subst (x + x) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:16:subst (x + x) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1), Problem 2 suite:16:subst (x + x) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1), Problem 2 suite:16:subst (x + x) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:16:subst (x + x) x (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1), Problem 2 suite:16:subst (x + x) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:16:subst (x + x) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1), Problem 2 suite:16:subst (x + x) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2), Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)), Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:23:subst (fun y -> x * x) x (2), Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:23:subst (fun y -> x * x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:23:subst (fun y -> x * x) x (2), Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:23:subst (fun y -> x * x) x (2), Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:23:subst (fun y -> x * x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:23:subst (fun y -> x * x) x (2), Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:23:subst (fun y -> x * x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2), Problem 2 suite:23:subst (fun y -> x * x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2), Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2), Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2), Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2), Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)), Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)), Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)), Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)), Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5), Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5), Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5), Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5), Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:28:eval_by_value (2 + 2), Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:28:eval_by_value (2 + 2), Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:28:eval_by_value (2 + 2), Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:28:eval_by_value (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:29:eval_by_value (2 + -2), Problem 2 suite:28:eval_by_value (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:29:eval_by_value (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:29:eval_by_value (2 + -2), Problem 2 suite:28:eval_by_value (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:29:eval_by_value (2 + -2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:29:eval_by_value (2 + -2), Problem 2 suite:28:eval_by_value (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:28:eval_by_value (2 + 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:29:eval_by_value (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:29:eval_by_value (2 + -2), Problem 2 suite:28:eval_by_value (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:28:eval_by_value (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:30:eval_by_value (2 - 2), Problem 2 suite:28:eval_by_value (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:31:eval_by_value (2 - 5), Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:31:eval_by_value (2 - 5), Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:31:eval_by_value (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:31:eval_by_value (2 - 5), Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:31:eval_by_value (2 - 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:31:eval_by_value (2 - 5), Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:30:eval_by_value (2 - 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:31:eval_by_value (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:31:eval_by_value (2 - 5), Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:32:eval_by_value (2 * 3), Problem 2 suite:30:eval_by_value (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:32:eval_by_value (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:33:eval_by_value (4 / 2), Problem 2 suite:32:eval_by_value (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:33:eval_by_value (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:33:eval_by_value (4 / 2), Problem 2 suite:32:eval_by_value (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:32:eval_by_value (2 * 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:33:eval_by_value (4 / 2), Problem 2 suite:32:eval_by_value (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:32:eval_by_value (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:33:eval_by_value (4 / 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:33:eval_by_value (4 / 2), Problem 2 suite:32:eval_by_value (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:33:eval_by_value (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:34:eval_by_value (4 / 3), Problem 2 suite:33:eval_by_value (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:35:eval_by_value (4 mod 3), Problem 2 suite:34:eval_by_value (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:34:eval_by_value (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:35:eval_by_value (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:35:eval_by_value (4 mod 3), Problem 2 suite:34:eval_by_value (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:34:eval_by_value (4 / 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:35:eval_by_value (4 mod 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:35:eval_by_value (4 mod 3), Problem 2 suite:34:eval_by_value (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:34:eval_by_value (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:35:eval_by_value (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:35:eval_by_value (4 mod 3), Problem 2 suite:34:eval_by_value (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:37:eval_by_value (4 > 4), Problem 2 suite:36:eval_by_value (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:36:eval_by_value (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:37:eval_by_value (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:37:eval_by_value (4 > 4), Problem 2 suite:36:eval_by_value (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:36:eval_by_value (4 mod -3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:37:eval_by_value (4 > 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:37:eval_by_value (4 > 4), Problem 2 suite:36:eval_by_value (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:36:eval_by_value (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:37:eval_by_value (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:37:eval_by_value (4 > 4), Problem 2 suite:36:eval_by_value (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:39:eval_by_value (4 = 3), Problem 2 suite:38:eval_by_value (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:38:eval_by_value (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:39:eval_by_value (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:39:eval_by_value (4 = 3), Problem 2 suite:38:eval_by_value (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:38:eval_by_value (6 > -10) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:39:eval_by_value (4 = 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:39:eval_by_value (4 = 3), Problem 2 suite:38:eval_by_value (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:38:eval_by_value (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:39:eval_by_value (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:39:eval_by_value (4 = 3), Problem 2 suite:38:eval_by_value (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:41:eval_by_value (1=1), Problem 2 suite:40:eval_by_value (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:41:eval_by_value (1=1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:41:eval_by_value (1=1), Problem 2 suite:40:eval_by_value (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:40:eval_by_value (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:41:eval_by_value (1=1), Problem 2 suite:40:eval_by_value (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:40:eval_by_value (4 = 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:41:eval_by_value (1=1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:41:eval_by_value (1=1), Problem 2 suite:40:eval_by_value (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:40:eval_by_value (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:41:eval_by_value (1=1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:41:eval_by_value (1=1), Problem 2 suite:40:eval_by_value (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:43:eval_by_value (2 > 1), Problem 2 suite:42:eval_by_value (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:42:eval_by_value (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:43:eval_by_value (2 > 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:43:eval_by_value (2 > 1), Problem 2 suite:42:eval_by_value (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:42:eval_by_value (not (2 > 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:43:eval_by_value (2 > 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:43:eval_by_value (2 > 1), Problem 2 suite:42:eval_by_value (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:42:eval_by_value (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:43:eval_by_value (2 > 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:43:eval_by_value (2 > 1), Problem 2 suite:42:eval_by_value (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:45:eval_by_value (not (2 = 1)), Problem 2 suite:44:eval_by_value (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:44:eval_by_value (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:45:eval_by_value (not (2 = 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:45:eval_by_value (not (2 = 1)), Problem 2 suite:44:eval_by_value (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:44:eval_by_value (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:45:eval_by_value (not (2 = 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:45:eval_by_value (not (2 = 1)), Problem 2 suite:44:eval_by_value (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:44:eval_by_value (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:45:eval_by_value (not (2 = 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:45:eval_by_value (not (2 = 1)), Problem 2 suite:44:eval_by_value (2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:47:eval_by_value (false && true), Problem 2 suite:46:eval_by_value (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:46:eval_by_value (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:47:eval_by_value (false && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:47:eval_by_value (false && true), Problem 2 suite:46:eval_by_value (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:46:eval_by_value (true && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:47:eval_by_value (false && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:47:eval_by_value (false && true), Problem 2 suite:46:eval_by_value (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:46:eval_by_value (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:47:eval_by_value (false && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:47:eval_by_value (false && true), Problem 2 suite:46:eval_by_value (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:49:eval_by_value (true || false), Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:49:eval_by_value (true || false), Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:49:eval_by_value (true || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:49:eval_by_value (true || false), Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:49:eval_by_value (true || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:49:eval_by_value (true || false), Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:49:eval_by_value (true || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:49:eval_by_value (true || false), Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:51:eval_by_value (false || true), Problem 2 suite:50:eval_by_value (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:50:eval_by_value (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:51:eval_by_value (false || true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:51:eval_by_value (false || true), Problem 2 suite:50:eval_by_value (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:50:eval_by_value (false || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:51:eval_by_value (false || true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:51:eval_by_value (false || true), Problem 2 suite:50:eval_by_value (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:50:eval_by_value (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:51:eval_by_value (false || true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:51:eval_by_value (false || true), Problem 2 suite:50:eval_by_value (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2), Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2), Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2), Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2), Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1), Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1), Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1), Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1), Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1), Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)), Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)), Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)), Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)), Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)), Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5), Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5), Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5), Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5), Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:63:eval_by_name (2 + 2), Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:63:eval_by_name (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:63:eval_by_name (2 + 2), Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:63:eval_by_name (2 + 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:63:eval_by_name (2 + 2), Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:63:eval_by_name (2 + 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:63:eval_by_name (2 + 2), Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:65:eval_by_name (2 - 2), Problem 2 suite:64:eval_by_name (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:64:eval_by_name (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:65:eval_by_name (2 - 2), Problem 2 suite:64:eval_by_name (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:65:eval_by_name (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:65:eval_by_name (2 - 2), Problem 2 suite:64:eval_by_name (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:64:eval_by_name (2 + -2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:65:eval_by_name (2 - 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:65:eval_by_name (2 - 2), Problem 2 suite:64:eval_by_name (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:64:eval_by_name (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:65:eval_by_name (2 - 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:65:eval_by_name (2 - 2), Problem 2 suite:64:eval_by_name (2 + -2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:67:eval_by_name (2 * 3), Problem 2 suite:66:eval_by_name (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:66:eval_by_name (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:67:eval_by_name (2 * 3), Problem 2 suite:66:eval_by_name (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:67:eval_by_name (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:67:eval_by_name (2 * 3), Problem 2 suite:66:eval_by_name (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:66:eval_by_name (2 - 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:67:eval_by_name (2 * 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:67:eval_by_name (2 * 3), Problem 2 suite:66:eval_by_name (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:66:eval_by_name (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:67:eval_by_name (2 * 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:67:eval_by_name (2 * 3), Problem 2 suite:66:eval_by_name (2 - 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:69:eval_by_name (4 / 3), Problem 2 suite:68:eval_by_name (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:68:eval_by_name (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:69:eval_by_name (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:69:eval_by_name (4 / 3), Problem 2 suite:68:eval_by_name (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:68:eval_by_name (4 / 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:69:eval_by_name (4 / 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:69:eval_by_name (4 / 3), Problem 2 suite:68:eval_by_name (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:68:eval_by_name (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:69:eval_by_name (4 / 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:69:eval_by_name (4 / 3), Problem 2 suite:68:eval_by_name (4 / 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:71:eval_by_name (4 mod -3), Problem 2 suite:70:eval_by_name (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:70:eval_by_name (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:71:eval_by_name (4 mod -3), Problem 2 suite:70:eval_by_name (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:71:eval_by_name (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:71:eval_by_name (4 mod -3), Problem 2 suite:70:eval_by_name (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:70:eval_by_name (4 mod 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:71:eval_by_name (4 mod -3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:71:eval_by_name (4 mod -3), Problem 2 suite:70:eval_by_name (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:70:eval_by_name (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:71:eval_by_name (4 mod -3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:71:eval_by_name (4 mod -3), Problem 2 suite:70:eval_by_name (4 mod 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:73:eval_by_name (6 > -10), Problem 2 suite:72:eval_by_name (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:72:eval_by_name (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:73:eval_by_name (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:73:eval_by_name (6 > -10), Problem 2 suite:72:eval_by_name (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:72:eval_by_name (4 > 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:73:eval_by_name (6 > -10) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:73:eval_by_name (6 > -10), Problem 2 suite:72:eval_by_name (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:72:eval_by_name (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:73:eval_by_name (6 > -10).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:73:eval_by_name (6 > -10), Problem 2 suite:72:eval_by_name (4 > 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:75:eval_by_name (4 = 4), Problem 2 suite:74:eval_by_name (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:74:eval_by_name (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:75:eval_by_name (4 = 4), Problem 2 suite:74:eval_by_name (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:75:eval_by_name (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:75:eval_by_name (4 = 4), Problem 2 suite:74:eval_by_name (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:74:eval_by_name (4 = 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:75:eval_by_name (4 = 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:75:eval_by_name (4 = 4), Problem 2 suite:74:eval_by_name (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:74:eval_by_name (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:75:eval_by_name (4 = 4).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:75:eval_by_name (4 = 4), Problem 2 suite:74:eval_by_name (4 = 3).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:77:eval_by_name (not (2 = 1)), Problem 2 suite:76:eval_by_name (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:76:eval_by_name (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:77:eval_by_name (not (2 = 1)), Problem 2 suite:76:eval_by_name (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:77:eval_by_name (not (2 = 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:77:eval_by_name (not (2 = 1)), Problem 2 suite:76:eval_by_name (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:76:eval_by_name (not (2 > 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:77:eval_by_name (not (2 = 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:77:eval_by_name (not (2 = 1)), Problem 2 suite:76:eval_by_name (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:76:eval_by_name (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:77:eval_by_name (not (2 = 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:77:eval_by_name (not (2 = 1)), Problem 2 suite:76:eval_by_name (not (2 > 1)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:79:eval_by_name (false && true), Problem 2 suite:78:eval_by_name (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:78:eval_by_name (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:79:eval_by_name (false && true), Problem 2 suite:78:eval_by_name (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:79:eval_by_name (false && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:79:eval_by_name (false && true), Problem 2 suite:78:eval_by_name (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:78:eval_by_name (true && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:79:eval_by_name (false && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:79:eval_by_name (false && true), Problem 2 suite:78:eval_by_name (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:78:eval_by_name (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:79:eval_by_name (false && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:79:eval_by_name (false && true), Problem 2 suite:78:eval_by_name (true && true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:81:eval_by_name (true || false), Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:81:eval_by_name (true || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:81:eval_by_name (true || false), Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:81:eval_by_name (true || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:81:eval_by_name (true || false), Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:81:eval_by_name (true || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:81:eval_by_name (true || false), Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:83:eval_by_name (false || true), Problem 2 suite:82:eval_by_name (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:83:eval_by_name (false || true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:83:eval_by_name (false || true), Problem 2 suite:82:eval_by_name (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:82:eval_by_name (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:83:eval_by_name (false || true), Problem 2 suite:82:eval_by_name (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:82:eval_by_name (false || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:83:eval_by_name (false || true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:83:eval_by_name (false || true), Problem 2 suite:82:eval_by_name (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:82:eval_by_name (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:83:eval_by_name (false || true).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:83:eval_by_name (false || true), Problem 2 suite:82:eval_by_name (false || false).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2), Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2), Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2), Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2), Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2), Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1), Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1), Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1), Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1), Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1), Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)), Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)), Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)), Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)), Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)), Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)), Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2), Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))), Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))), Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))), Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))), Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))), Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Still 2 tests running : Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Start test Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Still 2 tests running : Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Start test Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Still 2 tests running : Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: Test Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: Test Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Still 2 tests running : Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#01 I: End test Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#02 I: End test Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Still 2 tests running : Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 2 tests running: Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5), Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5).
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: 0 tests running: .
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Worker MacBook-Pro#01 has ended.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Worker MacBook-Pro#02 has ended.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Used 2 worker during test execution.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Run 48 tests with shard MacBook-Pro#02.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Run 48 tests with shard MacBook-Pro#01.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Check health of shard MacBook-Pro#02, 1 times.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Check health of shard MacBook-Pro#01, 1 times.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: ==============
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Summary:
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:95:eval_by_name ((fun f -> (fun x -> f (x x)) (fun x -> f (x x))) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:94:eval_by_name ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:93:eval_by_name ((fun x -> 1) ((fun x -> x x) (fun x -> x x))) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:92:eval_by_name ((fun x y -> x y + 1) (fun x -> 2 * x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:91:eval_by_name ((fun x y -> x + x) (6/3) (1 / 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:90:eval_by_name ((fun y -> 2 + 2) (2/0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:89:eval_by_name ((fun x y -> x + y) 2 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:88:eval_by_name ((fun x -> x + x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:87:eval_by_name (if 2 <= -1 then 4 / 0 else 2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:86:eval_by_name (if 2 <= 2 then 4 else 2 / 0) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:85:eval_by_name (if 2 >= 2 then 4 else 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:84:eval_by_name (true || (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:83:eval_by_name (false || true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:82:eval_by_name (false || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:81:eval_by_name (true || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:80:eval_by_name (false && (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:79:eval_by_name (false && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:78:eval_by_name (true && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:77:eval_by_name (not (2 = 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:76:eval_by_name (not (2 > 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:75:eval_by_name (4 = 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:74:eval_by_name (4 = 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:73:eval_by_name (6 > -10) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:72:eval_by_name (4 > 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:71:eval_by_name (4 mod -3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:70:eval_by_name (4 mod 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:69:eval_by_name (4 / 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:68:eval_by_name (4 / 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:67:eval_by_name (2 * 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:66:eval_by_name (2 - 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:65:eval_by_name (2 - 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:64:eval_by_name (2 + -2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:63:eval_by_name (2 + 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:62:eval_by_value ((fun f -> (fun x n -> f (x x) n) (fun x n -> f (x x) n)) (fun fac n -> if n = 0 then 1 else n * fac (n - 1)) 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:61:eval_by_value (let rec fac n = if n = 0 then 1 else n * fac (n - 1) in fac 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:60:eval_by_value ((fun x -> x) (fun x -> x + 2) 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:59:eval_by_value ((fun x -> x) (fun x -> x)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:58:eval_by_value ((fun x y -> x y + 1) (fun x -> 2 * x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:57:eval_by_value ((fun x y -> x + y) 2 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:56:eval_by_value ((fun x -> x + x) 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:55:eval_by_value (if 2 <= -1 then 4 / 0 else 2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:54:eval_by_value (if 2 <= 2 then 4 else 2 / 0) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:53:eval_by_value (if 2 >= 2 then 4 else 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:52:eval_by_value (true || (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:51:eval_by_value (false || true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:50:eval_by_value (false || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:49:eval_by_value (true || false) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:48:eval_by_value (false && (2 / 0 > 0)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:47:eval_by_value (false && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:46:eval_by_value (true && true) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:45:eval_by_value (not (2 = 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:44:eval_by_value (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:43:eval_by_value (2 > 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:42:eval_by_value (not (2 > 1)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:41:eval_by_value (1=1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:40:eval_by_value (4 = 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:39:eval_by_value (4 = 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:38:eval_by_value (6 > -10) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:37:eval_by_value (4 > 4) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:36:eval_by_value (4 mod -3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:35:eval_by_value (4 mod 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:34:eval_by_value (4 / 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:33:eval_by_value (4 / 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:32:eval_by_value (2 * 3) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:30:eval_by_value (2 - 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:31:eval_by_value (2 - 5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:28:eval_by_value (2 + 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:29:eval_by_value (2 + -2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:27:subst ((fun x -> if x = 0 then 1 else 0)) x (5) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:26:subst ((fun x -> x)) x ((fun x -> x)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:25:subst ((fun x -> ((x mod 2) * x)) x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:24:subst ((fun y -> ((x mod 2) * x)) x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:23:subst (fun y -> x * x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:22:subst (f 2 3) f (fun x -> fun y -> y * (x + 3)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:21:subst (fun z -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:20:subst (fun x -> fun y -> y * (x + 3)) y (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:19:subst (fun x -> fun y -> y * (x + 3)) x (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:18:subst (fun x -> x + y) x (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:17:subst (fun x -> x + y) y (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:16:subst (x + x) x (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:15:subst (x + y) y (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:14:subst (x + y) x (2 + 1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:13:subst (x) x (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:12:subst (x) y (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:11:subst (2 + 3 * 5 mod 2) y (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:10:subst (2) x (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:9:find_free_var (fun x -> y * (x + 3)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:8:find_free_var (if (b && not c) && d then 1 else 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:7:find_free_var (f 1 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:6:find_free_var (fun x -> fun y -> y * (x + 3)) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:5:find_free_var (2 + 3 * 5 mod 2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:4:find_free_var (1+2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:3:find_free_var (1+b) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:2:find_free_var (a+1) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:1:find_free_var (a+b) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Test Problem 2 suite:0:find_free_var (2) is successful.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Ran: 96 tests in: 0.13 seconds.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Cases: 96.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Tried: 96.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Errors: 0.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Failures: 0.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Skip: 0.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Todo: 0.
+2022-11-12T02:31:10+00:00 MacBook-Pro#00 I: Timeout: 0.
